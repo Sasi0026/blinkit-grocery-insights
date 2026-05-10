@@ -206,9 +206,9 @@ Connect to `data/processed/` folder if prompted to refresh data source.
 
 ## Author
 
-**[Your Name]**  
+**[Sasi Kiran]**  
 Data Analyst  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/sasi-kiran18/) · [GitHub](https://github.com/Sasi0026)
 
 ---
 
