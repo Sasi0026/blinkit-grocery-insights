@@ -1,6 +1,6 @@
 # Blinkit Grocery Sales — Final Analysis Report
 
-**Author:** [Your Name]  
+**Author:** Sasi Kiran 
 **Date:** May 2026  
 **Tools:** Python (Pandas, Matplotlib, Seaborn) · Power BI Desktop  
 **Dataset:** BlinkIT Grocery Data (Kaggle) — 8,523 rows · 12 columns  
