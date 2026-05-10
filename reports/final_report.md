@@ -309,6 +309,5 @@ Sales per Outlet · Sales per Outlet Age
 
 ---
 
-*Report generated from Power BI dashboard analysis.
-Full methodology, EDA notebook, and cleaning notebook
-available in the project GitHub repository.*
+
+
